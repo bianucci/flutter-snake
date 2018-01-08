@@ -1,2 +1,2 @@
 # flutter-snake
-Snake (game in flutter
+Snake (game) in flutter
